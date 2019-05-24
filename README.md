@@ -2,16 +2,19 @@
 
 # frontend-imed
 
+## Mini-projeto flexbox
+Está incluído no projeto o HTML e CSS utilizado :)
+
 ## Cursos
-Curso Flexbox do Wesbos: https://flexbox.io/
-Curso Grid System do Wesbos: https://cssgrid.io/
-Cursos grátis da Rocketseat: https://rocketseat.com.br/starter
-Curso UX da Awari: https://awari.com.br/
+Curso Flexbox do Wesbos: https://flexbox.io/  
+Curso Grid System do Wesbos: https://cssgrid.io/  
+Cursos grátis da Rocketseat: https://rocketseat.com.br/starter  
+Curso UX da Awari: https://awari.com.br/  
 
 ## Links úteis
-Caniuse: https://caniuse.com/
-SuperheroJS: http://superherojs.com/
-BEM CSS: http://getbem.com/
-Developer Roadmap: https://github.com/kamranahmedse/developer-roadmap
-Frontend Challanges: https://github.com/felipefialho/frontend-challenges
-Flexbox 101: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+Caniuse: https://caniuse.com/  
+SuperheroJS: http://superherojs.com/  
+BEM CSS: http://getbem.com/  
+Developer Roadmap: https://github.com/kamranahmedse/developer-roadmap  
+Frontend Challanges: https://github.com/felipefialho/frontend-challenges  
+Flexbox 101: https://css-tricks.com/snippets/css/a-guide-to-flexbox/  
