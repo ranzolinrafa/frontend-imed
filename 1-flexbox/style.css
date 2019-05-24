@@ -1,0 +1,41 @@
+body {
+    background: #685aa4cf;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.container--flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media (max-width: 411px) {
+    .container--flex {
+        flex-direction: column;
+    }
+}
+
+.card {
+    background: white;
+    box-shadow: 0 0 2px 2px rgba(0,0,0,.1);
+    flex: 1 1 300px;
+    margin: 8px;
+}
+
+.card__img {
+    width: 100%;
+}
+
+.card__body {
+    padding: 8px;
+}
+
+.card__btn {
+    background: #685aa4cf;
+    border: 0;
+    color: white;
+    font-weight: 500;
+    padding: 8px 16px;
+}
